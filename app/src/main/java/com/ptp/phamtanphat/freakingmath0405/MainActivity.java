@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
         txtSothu1.setText(sothu1 + "");
-        txtSothu2.setText(sothu2 + "");
+        txtSothu2.setText("?");
         txtPheptinh.setText(pheptinh);
         txtKetqua.setText(ketqua + "");
 
